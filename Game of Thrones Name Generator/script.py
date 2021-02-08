@@ -10,7 +10,7 @@ gender = input('Male (m) or Female (f)?')
 
 while True:
     if gender.lower() == 'm' or gender.lower() == 'f':
-       break
+        break
     else:
         print('Sorry. Please enter your gender as either "m" or "f".')
         gender = input('Male (m) or Female (f)?')
@@ -38,6 +38,3 @@ while True:
         break
 
 input('Press Enter to Exit.')
-
-
-
