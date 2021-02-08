@@ -1,4 +1,6 @@
-""" This code is used as a text input script that will generate a name based on the HBO Show 'Game of Thrones'"""
+""" This code is used as a text input script. 
+
+It will generate a name based on the HBO Show 'Game of Thrones'"""
 
 import random
 import pandas as pd
